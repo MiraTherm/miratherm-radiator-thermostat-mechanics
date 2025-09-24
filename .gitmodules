@@ -1,0 +1,3 @@
+[submodule "cc0-parts"]
+	path = cc0-parts
+	url = https://github.com/MiraTherm/miratherm-freecad-cc0-parts.git
